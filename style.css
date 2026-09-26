@@ -1,0 +1,14 @@
+body{
+    font-family:sans-serif;
+    background: #0f0f0f;
+    color: white;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+.hero{
+    text-align: center;
+    padding: 100px 20px;
+}
